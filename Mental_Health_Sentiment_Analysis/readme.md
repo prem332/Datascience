@@ -52,11 +52,6 @@ The Bidirectional LSTM (Long Short-Term Memory) model was chosen for its ability
 
 To run the project locally, follow these steps:
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/Mental-Health-Sentiment-Analysis.git
-   cd Mental-Health-Sentiment-Analysis
 Install dependencies:
 
 Ensure you have Python 3.9 or above installed. Then, install the required libraries using the provided requirements.txt file:
